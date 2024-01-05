@@ -28,7 +28,7 @@ EasyHEU 是一个用于自动抢课的 Python 工具，旨在帮助HEU的学生�
 克隆项目并进入项目目录：
 
 ```bash
-git clone https://github.com/你的用户名/EasyHEU.git
+git clone https://github.com/BitYans/EasyHEU.git
 cd EasyHEU
 ```
 
